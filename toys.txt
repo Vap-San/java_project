@@ -1,0 +1,10 @@
+1,Zara,81
+2,Facebook,83
+3,Hewlett-Packard,47
+4,Walmart,30
+5,Huawei,89
+6,China Construction Bank,90
+7,Mercedes-Benz,47
+8,Colgate,82
+9,Hermes,71
+10,Microsoft,25
